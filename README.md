@@ -4,4 +4,4 @@
 #### run setup command : 
     cd nulink && chmod ug+x *.sh && ./setup.sh
 #### follow the instruction and then run below command to start the node :
-    ./start_nulink.sh
+    ./start_nulink.sh && ./get_log.sh
